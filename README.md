@@ -1,6 +1,6 @@
-# Django, uWSGI and Nginx in a container
+# Django, uWSGI and Nginx in a Docker Container
 
-This Dockerfile allows you to build a Docker container with a fairly standard
+This Dockerfile allows you to build a Docker Container with a fairly standard
 and speedy setup for Django with uWSGI and Nginx.
 
 uWSGI from a number of benchmarks has shown to be the fastest server 
